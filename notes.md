@@ -17,3 +17,5 @@ new, create, edit, update, destroy
 create user migration
 create books migration
 create books user migration
+
+welcome Seth!
